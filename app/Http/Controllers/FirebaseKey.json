@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bank-sampah-750d0",
+  "private_key_id": "6232deea0ce62b4daf4904079444d7e51adb6111",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4bSewRgKjnfy4\n0YsgIf9uamceGRphD79dL/sDWrtxPjVHOfI8Ia34kaf0HWaOSZPwGAhHnGihX9b7\ngV0NjfJT1v+rHqv84+12VbWR4RawQuu1hPgilTSEokm0rJYpAyytyBI5xVeYaNA3\nazBimtXNlwsB1PCMAmnZMe1jQg1MLo7ZOvmhldHEF9S7JDHb8LrnOJUn9pum5600\nRRpXdU+eMURqyfE/84Y+X2ab4efbEtE8PpVf/e4yismfTQtCvxDqQgZ0oz26p3Zg\nVMU/GXtOA8TxRHI4M6uq5D9FWXBeuN/QypiDd2qwS+Jqi4liv7rK124PYeDpCLom\nGAwqzEQ9AgMBAAECggEACu/aNy9nr6lKV/GBRSYO/k7MD7JgaJok+JNEWQYT8JrG\nUROEJIHAzelhYu4ta0m8vrPGJe0GHW/QEXkx+gBNeyBYaB75BxXDOs3JZz3IeSp2\nzPx2NKLRiv4OzeqgOw1npGSlhAyKbczlcCvooihZfogzDGhC3aK1AT7fO5AqtrZA\nVqLHO3TmdrS/2AyOOPkoc9az0gluB15d2FZphQYrX8HnKD4aRgFndQ7mPhrC5EoE\ntlh7qZZg/Ik5zBMzAMjQCr0XcJtFYuCSsx4WX9GvqAuJhs9QlgKA2s6R20cSBJgX\nAPX1JhopD9IgBdEacSj1gjQDMlAfQMHW0oVYQeqiEQKBgQDdmfVTVgPUlb+wZRJh\nF/AR5U8U/ewmzOAv5CbDMcWke0qw2RbFmp2xmuBZ4FOvFsux4sbtQ1NL0ade3QvN\nXds2+dRlYKD/9hsgfti/N8/Mmp6jwLWjCsE3uaGhJHX1+v6BX6TGJUrRR0OhMCwH\nHJKkmYb/lGLJCXQ2NuaM6zQQiQKBgQDVDe2wr+FM8QGWNEChZ2YJmsiv+ClYPq8c\ns9w3ohFCm2PMkbc4atT11tFVUe8uY5aHCUq7xO0fzHiv7zXwqeqdRTnPu7r4sb7J\nPORLdekvl1rh3d6mQGDoYOFZ7l8xj32qBfs67ldWY8iJbJ9zXtFR7NeJGmDniI+i\nxTDaXGthFQKBgEyFyMCRWFtFpt8b19/tazpSzB88nBq97sC68WPAQTbOWHl/TazI\n+qGFEOoYW+1/WrG/1N/DuvTYngpVHKk7OuLeHKkxWAdrjeyHwQMvG7PUxOlZN5/o\nq9Y5ZQYHWDCsDszQIU9HO3HPQRxdTSbbiAwM9CA3tnEjsZyzEqQg6Ga5AoGBALRw\nJ24MhvNy6bUca+BGgdSAkpb1xY5HCGd2rHsxdwzCLbODdXkCgXnzhTaNPdQ747BZ\n3kFIdssHkO7v2O8J+PlZN60HgUI+xyYHvBFsuyDjPsUr8vU6cNhdtH1FtLl0nSjy\nB+PRF4bC24QHysMa+ow32hLzlD6DGaLw/n7w5sBBAoGAR4Tcze1siNJGlAvHIx1P\nNaD5mPzyk7jF/t5xR1yxojJ30+YwSYUXeHHVfCjAaw624Zb3Wh+A3qVfM5TQ7Nky\nvUux20h9wPogE41fOFUW1RPY0Bs0RAQgmvl+p4yMEGHmRFtz/N/yrxP8xeakx5aS\ne1LmLBso3fQ65Ph0H1sLpS8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-itz3g@bank-sampah-750d0.iam.gserviceaccount.com",
+  "client_id": "106791080149306280560",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-itz3g%40bank-sampah-750d0.iam.gserviceaccount.com"
+}

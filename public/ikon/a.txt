@@ -1,0 +1,5 @@
+background : #A0BAA2
+button : #268986
+garis : #1D8927
+
+Font : Open Sans
